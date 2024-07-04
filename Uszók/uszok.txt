@@ -1,0 +1,3 @@
+001;Fenek Elek;1969.06.09;Magyarország;2:05.18
+002;Pofá Zoltán;1942.04.02;Finnország;5:10.11
+003;Tank Aranka;2005.10.10;Oroszország;6:10.58
